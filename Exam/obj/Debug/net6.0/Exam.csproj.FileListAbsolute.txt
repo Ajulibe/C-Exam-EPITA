@@ -1,0 +1,15 @@
+/Users/akachukwuajulibe/Projects/Exam/Exam/bin/Debug/net6.0/Exam
+/Users/akachukwuajulibe/Projects/Exam/Exam/bin/Debug/net6.0/Exam.deps.json
+/Users/akachukwuajulibe/Projects/Exam/Exam/bin/Debug/net6.0/Exam.runtimeconfig.json
+/Users/akachukwuajulibe/Projects/Exam/Exam/bin/Debug/net6.0/Exam.dll
+/Users/akachukwuajulibe/Projects/Exam/Exam/bin/Debug/net6.0/Exam.pdb
+/Users/akachukwuajulibe/Projects/Exam/Exam/obj/Debug/net6.0/Exam.csproj.AssemblyReference.cache
+/Users/akachukwuajulibe/Projects/Exam/Exam/obj/Debug/net6.0/Exam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akachukwuajulibe/Projects/Exam/Exam/obj/Debug/net6.0/Exam.AssemblyInfoInputs.cache
+/Users/akachukwuajulibe/Projects/Exam/Exam/obj/Debug/net6.0/Exam.AssemblyInfo.cs
+/Users/akachukwuajulibe/Projects/Exam/Exam/obj/Debug/net6.0/Exam.csproj.CoreCompileInputs.cache
+/Users/akachukwuajulibe/Projects/Exam/Exam/obj/Debug/net6.0/Exam.dll
+/Users/akachukwuajulibe/Projects/Exam/Exam/obj/Debug/net6.0/refint/Exam.dll
+/Users/akachukwuajulibe/Projects/Exam/Exam/obj/Debug/net6.0/Exam.pdb
+/Users/akachukwuajulibe/Projects/Exam/Exam/obj/Debug/net6.0/Exam.genruntimeconfig.cache
+/Users/akachukwuajulibe/Projects/Exam/Exam/obj/Debug/net6.0/ref/Exam.dll
